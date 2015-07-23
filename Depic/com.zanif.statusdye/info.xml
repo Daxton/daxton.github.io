@@ -1,0 +1,33 @@
+<package>
+	<id>com.zanif.statusdye</id>
+	<name>Full Package</name>
+	<version>0.0.1-73</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>org.thebigboss.libcolorpicker</package>
+	</dependencies>
+	<descriptionlist>
+		<description>This tweak will allow you to change the colors of your status bar.</description>
+		<description>Change the colors of the status bar on homescreen and lockscreen individually.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>StatusDye</description>
+			<image>ssdye.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Zanif</url>
+		</link>
+	</links>
+</package>

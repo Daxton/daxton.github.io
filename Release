@@ -1,0 +1,8 @@
+Origin: Daxton's Repository
+Label: Daxton's repo
+Suite: stable
+Version: 1.0
+Codename: Daxton
+Architectures: iphoneos-arm
+Components: main
+Description: Daxton's repo for personal tweaks
