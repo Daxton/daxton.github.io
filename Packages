@@ -12,4 +12,5 @@ Section: Tweaks
 Description: Change the color of the status bar on HomeScreen and LockScreen individually.
 Author: Zanif
 Depiction: http://daxton.github.io/Depic/index.html?p=com.zanif.statusdye
+Icon: file:///Library/PreferenceBundles/StatusDye.bundle/StatusDye@2x.png
 Name: StatusDye
