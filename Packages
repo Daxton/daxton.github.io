@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Zanif
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: debs//com.zanif.statusdye.deb
-Size: 35958
+Size: 36888
 MD5sum: 5bf66e1d085fd7c6dc3bf99c9866521c
 SHA1: c528b79fc7c7684047a638f2a7943182e11a29ce
 SHA256: c552af1c37a6c1b9dce0c033c4d8136ea55888afaa3946787ad95f18f4b2a1c3
