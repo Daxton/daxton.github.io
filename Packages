@@ -1,13 +1,13 @@
 Package: com.zanif.statusdye
-Version: 0.0.1-73
+Version: 0.0.1-74
 Architecture: iphoneos-arm
 Maintainer: Zanif
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: debs//com.zanif.statusdye.deb
 Size: 35958
-MD5sum: def50818a222a9d90b0256b003b2d3ef
-SHA1: 38913bae17d10edc9ddaef33eadf8ece9758e95e
-SHA256: 9cb8ab2ce04f07735a399bf698be9a6ab6151b06f782d749427c5facc0a20fcb
+MD5sum: 5bf66e1d085fd7c6dc3bf99c9866521c
+SHA1: c528b79fc7c7684047a638f2a7943182e11a29ce
+SHA256: c552af1c37a6c1b9dce0c033c4d8136ea55888afaa3946787ad95f18f4b2a1c3
 Section: Tweaks
 Description: Change the color of the status bar on HomeScreen and LockScreen individually.
 Author: Zanif
