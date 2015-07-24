@@ -1,5 +1,5 @@
 Package: com.zanif.statusdye
-Version: 0.0.1
+Version: 0.0.1-73
 Architecture: iphoneos-arm
 Maintainer: Zanif
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
